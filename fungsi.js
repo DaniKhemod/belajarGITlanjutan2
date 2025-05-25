@@ -10,4 +10,5 @@ console.log(multiplyNumber(5,7));
 const divide = (a, b) => a / b;
 console.log(divide(30,5));
 
-console.log(divide(30,10));
+const mathsin = (a, b) => math.sin(number);
+console.log(mathsin(20));
