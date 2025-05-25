@@ -9,3 +9,5 @@ console.log(multiplyNumber(5,7));
 
 const divide = (a, b) => a / b;
 console.log(divide(30,5));
+
+console.log(divide(30,10));
