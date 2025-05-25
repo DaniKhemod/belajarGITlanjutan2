@@ -1,1 +1,0 @@
-console.log('membuat file js ke 2');
